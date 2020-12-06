@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://imgur.com/e0r0uDS.png" width="400px" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="https://imgur.com/ts47k9U.png" width="400px" />
 </h1>
 
 <h1 align="center"> Product Hunt API </h1>
