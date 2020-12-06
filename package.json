@@ -1,0 +1,20 @@
+{
+  "name": "product-hunt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Antonio Bernardino da Silva",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "mongoose": "^5.11.4",
+    "mongoose-paginate": "^5.0.3",
+    "nodemon": "^2.0.6",
+    "require-dir": "^1.2.0"
+  }
+}
