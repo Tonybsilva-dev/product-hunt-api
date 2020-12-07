@@ -30,7 +30,15 @@
 </ul>
 
 ## Features
+0.0.2
+- [x] Cadastro de usuários
+- [x] Editar usuários
+- [x] Listar todos os usuários
+- [x] Listar usuários por ID
+- [x] Excluir usuários por ID
+- [x] Paginação
 
+0.0.1
 - [x] Cadastro de produtos
 - [x] Editar produtos
 - [x] Listar todos os produtos
@@ -55,7 +63,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 ### Exported to Insomnia v4 (JSON)
 #### Download collection
 
-<a href=http://www.filedropper.com/apiproduct-hunt><img src=http://www.filedropper.com/download_button.png width=100 height=100 border=0/></a><br />
+<a href=http://www.filedropper.com/product-hunt><img src=http://www.filedropper.com/download_button.png width=100 height=100 border=0/></a><br />
 
 
 ### Autor
