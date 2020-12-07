@@ -28,6 +28,15 @@
   <li>MongoDB</li>
 </ul>
 
+## Features
+
+- [x] Cadastro de produtos
+- [x] Editar produtos
+- [x] Listar todos os produtos
+- [x] Listar produtos por ID
+- [x] Excluir produto por ID
+- [x] Paginação
+
 ## :memo: License
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
