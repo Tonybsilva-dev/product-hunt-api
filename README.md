@@ -64,7 +64,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <a href="https://tonybsilva-data.vercel.app/">
  <img style="border-radius: 50%;" src="https://avatars0.githubusercontent.com/u/54373473?s=460&u=374220a5cb34f019be55f16e3103a0e5905c0727&v=4" width="100px;" alt=""/>
  <br />
- <sub><b>Antônio Bernardino da Silva</b></sub></a> <a href="https://tonybsilva-data.vercel.app/" title="Portfólio">🚀</a>
+ <sub><b>Antônio Bernardino da Silva</b></sub></a> <a href="https://tonybsilva-data.vercel.app/" title="Portfólio">📄</a>
 
 
 Feito com ❤️ por Antônio Bernardino 👋🏽 Entre em contato!
