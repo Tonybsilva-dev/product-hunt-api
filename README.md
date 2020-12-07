@@ -24,7 +24,7 @@
     <img src="https://i.imgur.com/e0owNr6.png" alt="example" />
   </h1>
 
-## Ferramentas Utilizadas:
+## Tools:
 <ul>
   <li>Node</li>
   <li>Insomina</li>
@@ -34,6 +34,7 @@
 </ul>
 
 ## Features
+---
 0.0.2
 - [x] Cadastro de usuários
 - [x] Editar usuários
@@ -51,10 +52,12 @@
 - [x] Paginação
 
 ## :memo: License
+---
 
 Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
 
-## Contribua para o projeto 😉
+## Contribute to the project 😉
+---
 
 1. Faça um **fork** do projeto.
 2. Crie uma nova branch com as suas alterações: `git checkout -b my-feature`
@@ -70,7 +73,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para
 <a href=http://www.filedropper.com/product-hunt><img src=http://www.filedropper.com/download_button.png width=100 height=100 border=0/></a><br />
 
 
-### Autor
+### Author
 ---
 
 <a href="https://tonybsilva-data.vercel.app/">
