@@ -19,6 +19,10 @@
   <a href="https://twitter.com/tonybsilvaaa">
     <img alt="Siga no Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fgithub.com%2Ftgmarinho%2Fnlw1">
   </a>
+  
+  <h1 align="center"> 
+    <img src="https://i.imgur.com/e0owNr6.png" alt="example" />
+  </h1>
 
 ## Ferramentas Utilizadas:
 <ul>
